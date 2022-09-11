@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ..
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,13 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-
-
----
-
-<p align="center">
-  <img src="https://github.com/bertlandh/bertlandh/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
----
 
