@@ -41,9 +41,5 @@ Here are some ideas to get you started:
 
 <!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ceejayps&show_icons=true&locale=en" alt="ceejayps" /></p-->
 
- ## how to reach me...
-<a href="https://www.linkedin.com/in/chester-johnson/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/🌐  ceejayps.com-000000?style=for-the-badge&logo=Globe&logoColor=blue" />](http://ceejayps.com/)
-</br>
 
 ##### Thank you for reading, see you soon <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  height='12'>
