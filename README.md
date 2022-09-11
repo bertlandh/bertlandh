@@ -18,17 +18,6 @@ Here are some ideas to get you started:
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ceejayps&label=Profile%20views&color=0e75b6&style=flat" alt="ceejayps" /> </p>
-<p align="left">
-</p>
-
----
-
-### 📊 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ceejayps&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="chester's github stats" width="48%" align="right" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ceejayps&theme=tokyonight&hide_border=true" alt="chester's github streak" width="48%" >
-
 ---
 
 <p align="center">
