@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<p align="left">
- <img src="https://spotify.source.lv/view?uid=9d2gn8vajmgxg5vb7ow13d730&cover_image=false" alt="now playing">
-</p>
-
-
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=bertlandh&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=midnight-purple"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bertlandh&layout=compact&card_width=445&hide_border=true&theme=midnight-purple"/>
