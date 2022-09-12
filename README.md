@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left">
-  <a href="https://last.fm/user/bertlandhope" target="_blank"><img src="https://spotify.source.lv/view?uid=9d2gn8vajmgxg5vb7ow13d730&cover_image=false" alt="now playing"></a>
+ <img src="https://spotify.source.lv/view?uid=9d2gn8vajmgxg5vb7ow13d730&cover_image=false" alt="now playing">
 </p>
 
 
