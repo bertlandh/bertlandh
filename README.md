@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-<p align="center">
+<p align="left">
   <a href="https://last.fm/user/k0d3r1s" target="_blank"><img src="https://spotify.source.lv/view?uid=9d2gn8vajmgxg5vb7ow13d730&cover_image=false" alt="now playing"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/vairogs"><img src="https://avatars0.githubusercontent.com/u/44346553?s=84&v=4"></a><br>
-</p>
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=bertlandh&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=midnight-purple"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bertlandh&layout=compact&card_width=445&hide_border=true&theme=midnight-purple"/>
